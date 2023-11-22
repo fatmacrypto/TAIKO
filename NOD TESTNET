@@ -1,4 +1,3 @@
-
 Taiko Node Commands
 
 1- sudo apt autoremove docker* container* -y
